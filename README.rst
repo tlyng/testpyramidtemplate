@@ -2,6 +2,15 @@
 testpyramidtemplate Pyramid App
 ===============
 
+.. image:: https://travis-ci.org/{{{author.github.user}}}/{{{package.name}}}.png?branch=master
+    :target: http://travis-ci.org/{{{author.github.user}}}/{{{package.name}}}
+
+.. image:: https://coveralls.io/repos/{{{author.github.user}}}/{{{package.name}}}/badge.png?branch=master
+    :target: https://coveralls.io/r/{{{author.github.user}}}/{{{package.name}}}
+
+.. image:: https://gemnasium.com/{{{author.github.user}}}/{{{package.name}}}.png
+    :target: https://gemnasium.com/{{{author.github.user}}}/{{{package.name}}}
+
 A Heroku-deployable Pyramid app to display 'testpyramidtemplate!` on front page.
 
 testpyramidtemplate
