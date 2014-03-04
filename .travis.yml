@@ -23,12 +23,3 @@ notifications:
       - "irc.freenode.org#digipub"
     template:
       - "%{repository}/#%{build_number}/%{branch} (%{author}): %{message} %{build_url}"
-
-deploy:
-    provider: heroku
-    strategy: git
-    api_key:
-    - secure: HEROKU_API_KEY
-    app:
-        master: testpyramidtemplate
-        staging: testpyramidtemplate-staging
