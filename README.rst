@@ -3,13 +3,13 @@ testpyramidtemplate Pyramid App
 ===============
 
 .. image:: https://travis-ci.org/tlyng/testpyramidtemplate.png?branch=master
-    :target: http://travis-ci.org/tlyng/testpyramidtemplate}
+    :target: http://travis-ci.org/tlyng/testpyramidtemplate
 
 .. image:: https://coveralls.io/repos/tlyng/testpyramidtemplate/badge.png?branch=master
-    :target: https://coveralls.io/r/tlyng/testpyramidtemplate}
+    :target: https://coveralls.io/r/tlyng/testpyramidtemplate
 
 .. image:: https://gemnasium.com/tlyng/testpyramidtemplate.png
-    :target: https://gemnasium.com/tlyng/testpyramidtemplate}
+    :target: https://gemnasium.com/tlyng/testpyramidtemplate
 
 A Heroku-deployable Pyramid app to display 'testpyramidtemplate!` on front page.
 
