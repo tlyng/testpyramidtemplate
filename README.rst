@@ -11,6 +11,7 @@ testpyramidtemplate Pyramid App
 .. image:: https://gemnasium.com/tlyng/testpyramidtemplate.png
     :target: https://gemnasium.com/tlyng/testpyramidtemplate
 
+
 A Heroku-deployable Pyramid app to display 'testpyramidtemplate!` on front page.
 
 testpyramidtemplate
